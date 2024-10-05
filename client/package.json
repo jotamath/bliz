@@ -1,0 +1,13 @@
+{
+  "name": "projetogulp",
+  "version": "1.0.0",
+  "description": "Um projeto realizado para o codeboost",
+  "main": "index.js",
+  "author": "João Costa",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.79.4"
+  }
+}
